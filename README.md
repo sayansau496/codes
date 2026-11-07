@@ -98,10 +98,6 @@ python app.py
 
 ### Step 8: Open the Application
 
-Open your browser and visit:
-
-```text
-http://127.0.0.1:5000/
 <img width="935" height="593" alt="image" src="https://github.com/user-attachments/assets/590e25b2-7f38-412d-bda5-6ed952fb3770" />
 
 ```
